@@ -13,12 +13,14 @@
 
 &ensp; &ensp; &ensp; ***Please note*** that this repositry is an unpublished idea, if you want to use this novel VRNNcell in your research as your baseline experiment setting  or it inspired you, plz consider citing or mentioning my work in your paper.
   
-
+a
 ---
   
 
 ```
-   I love contributions and cooperations, if you have any questions or suggestions, please feel free to put forward in the issue
+   I love contributions and cooperations.
+if you have any questions or suggestions,
+please feel free to put forward in the issue.
 ```
   
 
