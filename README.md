@@ -1,7 +1,7 @@
 # VRNN
   
 
-***A novel structure RNN cell called VRNN temporarily which consume less parameters and training time and could achieve comparable performance as LSTM/GRU***
+***A novel structure of RNN cell called VRNN temporarily which consume less parameters and training time and could achieve comparable performance as LSTM/GRU***
   
 
 ![avatar](https://github.com/alphadl/VRNN/blob/master/img/VRNN.png)
@@ -18,16 +18,16 @@
   
 
 
-   <big>***I love contributions and cooperations.
+   <big>I love contributions and cooperations.
 if you have any questions or suggestions,
-please feel free to put forward in the issue.***</big>
+please feel free to put forward in the issue.</big>
 
   
 
 Updated by: **Liam**
   
 
-&ensp; liangding.liam@gmail.com
+&ensp;[liangding.liam@gmail.com](liangding.liam@gmail.com)
   
 
-&ensp; 7 Jan. 2019
+&ensp;Date: 7 Jan. 2019
