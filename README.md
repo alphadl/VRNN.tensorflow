@@ -1,4 +1,4 @@
-# VRNN
+# VRNN（Variant Recurrent Neural Network）
   
 
 ***A novel structure of RNN cell called VRNN temporarily which consume less parameters and training time and could achieve comparable performance as LSTM/GRU***
