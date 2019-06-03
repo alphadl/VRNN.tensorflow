@@ -22,12 +22,5 @@
 if you have any questions or suggestions,
 please feel free to put forward in the issue.</big>
 
-  
-
-Updated by: **Liam**
-  
-
-&ensp;[liangding.liam@gmail.com](liangding.liam@gmail.com)
-  
 
 &ensp;Date: 7 Jan. 2019
